@@ -1,6 +1,4 @@
-const m = require('mithril');
-
-function home() {
+function home(m) {
   return {
     view: () => m('div', 'Welcome to the ARC Mithril Skeleton!'),
   };

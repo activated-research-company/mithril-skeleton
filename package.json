@@ -1,8 +1,8 @@
 {
   "name": "mithril-skeleton",
-  "version": "1.0.0",
-  "description": "ARC Web App Starter",
-  "main": "index.js",
+  "version": "1.0.1",
+  "description": "Mithril Skeleton",
+  "main": "route.js",
   "repository": "https://github.com/adamlee-ARC/mithril-skeleton.git",
   "author": "Adam Lee <adam.lee@activatedresearch.com>",
   "license": "MIT",

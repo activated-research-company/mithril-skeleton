@@ -4,7 +4,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin'); // eslint-disable-line
 
 module.exports = {
   entry: {
-    app: './src/index.js',
+    app: './src/route.js',
   },
   node: {
     fs: 'empty',
