@@ -3,6 +3,7 @@ node_js: '10'
 install:
   - npm install -g codecov
 script:
+  - mkdir coverage
   - npm run c8
   - npm run coverage
   - codecov
