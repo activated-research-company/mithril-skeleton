@@ -1,7 +1,7 @@
 # mithril-skeleton
 
-<a href="https://travis-ci.org/adamlee-ARC/arc-app">
-    <img src="https://travis-ci.org/adamlee-ARC/solvere.svg?branch=master" alt="Build Status">
+<a href="https://travis-ci.org/activated-research-company/mithril-skeleton">
+    <img src="https://travis-ci.org/activated-research-company/mithril-skeleton.svg?branch=master" alt="Build Status">
 </a>
 <a href="https://codecov.io/gh/adamlee-ARC/mithril-skeleton">
   <img src="https://codecov.io/gh/adamlee-ARC/mithril-skeleton/branch/master/graph/badge.svg" />
