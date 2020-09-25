@@ -8,3 +8,5 @@
 </a>
 
 This is the Activated Research Company web app starter to get you up and running quickly on our standard stack.
+
+Demo: http://mithril-skeleton.activatedresearch.com.s3-website-us-east-1.amazonaws.com/
